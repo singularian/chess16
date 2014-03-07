@@ -1,13 +1,16 @@
 Chess16
 =======
 
-Chess 16 is a (16 by 16) variant of chess.
+Chess 16 is a (16 by 16 square) variant of chess.
 The idea is to increase the difficulty of chess for computers.
 The pawns can move from 1 to 6 squares ahead on the first move.
 The objective is to create a much more challenging variation
 for computers which is a superset of conventional chess and contains a larger opening library.
 There are 256 (16 by 16) squares compared to 64 in a normal chess game. There is a larger space to
-play the game in.
+play the game in. In total there are 192 (16 by 12) open square board spaces verses 32 (8 by 4) in a conventional
+chess game.
+
+This doesn't try to add new pieces so that it is a more conventional variant of chess. 
 
 There are 32 pieces per side. These pieces are: 
 
