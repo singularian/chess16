@@ -20,6 +20,7 @@ There are 32 pieces per side. These pieces are:
 Castling is also different. 
 
 A 16 by 16 board has this configuration
+https://github.com/singularian/chess16/blob/master/images/chess16_Board2.png
 
 
 		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
