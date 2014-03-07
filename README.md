@@ -11,15 +11,15 @@ play the game in.
 
 There are 32 pieces per side. These pieces are: 
 
-	4 rooks
-	4 bishops
-	4 Nights
-	3 Queens
-	1 King
-	16 Pawns 
+	4 Rooks   (R)
+	4 Bishops (B)
+	4 Knights (N)
+	3 Queens  (Q)
+	1 King    (K)
+	16 Pawns  (P)
 
  
-Castling is also different. These will be updated later
+Castling is also different. These will be updated later.
 
 A 16 by 16 board has this configuration
 https://github.com/singularian/chess16/blob/master/images/chess16_Board2.png
