@@ -22,22 +22,22 @@ Castling is also different.
 A 16 by 16 board has this configuration
 
 
-	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
-	a	b	c	d	e	f	g	h	I	j	k	l	m	N	o	P
-16	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
-15	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
-14																
-13																
-12																
-11																
-10																
-9																
-8																
-7																
-6																
-5																
-4																
-3																
-2	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
-1	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
+		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+		a	b	c	d	e	f	g	h	I	j	k	l	m	N	o	P
+	16	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
+	15	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	14																
+	13																
+	12																
+	11																
+	10																
+	9																
+	8																
+	7																
+	6																
+	5																
+	4																
+	3																
+	2	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	1	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 
