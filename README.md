@@ -21,6 +21,16 @@ There are 32 pieces per side. These pieces are:
 	1 King    (K)
 	16 Pawns  (P)
 
+This is an alternative piece list with 1 less queen (1 is replaced by a bishops) and 5 bishops. 
+
+	4 Rooks   (R)
+	5 Bishops (B)
+	4 Knights (N)
+	2 Queens  (Q)
+	1 King    (K)
+	16 Pawns  (P)
+
+
  
 Castling is also different. These will be updated later.
 
