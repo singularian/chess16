@@ -10,7 +10,7 @@ There are 256 (16 by 16) squares compared to 64 in a normal chess game. There is
 play the game in. In total there are 192 (16 by 12) open square board spaces verses 32 (8 by 4) in a conventional
 chess game.
 
-This doesn't try to add new pieces so that it is a more conventional variant of chess. 
+This doesn't try to add new pieces so that it is a more conventional variant of chess. It has 1 King to maintain conventions.
 
 There are 32 pieces per side. These pieces are: 
 
@@ -21,7 +21,7 @@ There are 32 pieces per side. These pieces are:
 	1 King    (K)
 	16 Pawns  (P)
 
-This is an alternative piece list with 1 less queen (1 is replaced by a bishops) and 5 bishops. 
+This is an alternative piece list with 1 less queen (1 is replaced by a bishop) and 5 bishops. 
 
 	4 Rooks   (R)
 	5 Bishops (B)
@@ -44,10 +44,10 @@ https://github.com/singularian/chess16/blob/master/images/chess168_Board2.png
 		a	b	c	d	e	f	g	h	I	j	k	l	m	N	o	P
 	8	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 	7	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P																																
-	6																
-	5																
-	4																
-	3																
+	6	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	5	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	4	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	3	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
 	2	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
 	1	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 
@@ -61,18 +61,18 @@ https://github.com/singularian/chess16/blob/master/images/chess16_Board2.png
 		a	b	c	d	e	f	g	h	I	j	k	l	m	N	o	P
 	16	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 	15	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
-	14																
-	13																
-	12																
-	11																
-	10																
-	9																
-	8																
-	7																
-	6																
-	5																
-	4																
-	3																
+	14	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	13	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	12	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	11	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	10	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	9	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	8	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	7	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	6	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	5	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	4	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	3	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
 	2	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
 	1	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 
@@ -91,34 +91,34 @@ https://github.com/singularian/chess16/blob/master/images/chess16_Board2.png
 		a	b	c	d	e	f	g	h	I	j	k	l	m	N	o	P
 	32	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 	31	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
-	30
-	29
-	28
-	27
-	26
-	25
-	24
-	23
-	22
-	21
-	20
-	19
-	18
-	17
-	16
-	15
-	14																
-	13																
-	12																
-	11																
-	10																
-	9																
-	8																
-	7																
-	6																
-	5																
-	4																
-	3																
+	30	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	29	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	28	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	27	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	26	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	25	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	24	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	23	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	22	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	21	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	20	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	19	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	18	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	17	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	16	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	15	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	14	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	13	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	12	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	11	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	10	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	9	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	8	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	7	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	6	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	5	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	4	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
+	3	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.																
 	2	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
 	1	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 
