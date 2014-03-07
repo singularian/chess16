@@ -1,23 +1,25 @@
-chess16
+Chess16
 =======
 
-chess 16 is a (16 by 16) variant of chess.
+Chess 16 is a (16 by 16) variant of chess.
 The idea is to increase the difficulty of chess for computers.
 The pawns can move from 1 to 6 squares ahead on the first move.
 The objective is to create a much more challenging variation
 for computers which is a superset of conventional chess and contains a larger opening library.
-
+There are 256 (16 by 16) squares compared to 64 in a normal chess game. There is a larger space to
+play the game in.
 
 There are 32 pieces per side. These pieces are: 
 
-4 rooks
-4 bishops
-4 Nights
-3 Queens
-1 King
-16 Pawns 
+	4 rooks
+	4 bishops
+	4 Nights
+	3 Queens
+	1 King
+	16 Pawns 
+
  
-Castling is also different. 
+Castling is also different. These will be updated later
 
 A 16 by 16 board has this configuration
 https://github.com/singularian/chess16/blob/master/images/chess16_Board2.png
