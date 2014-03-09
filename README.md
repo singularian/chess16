@@ -31,6 +31,7 @@ This is an alternative piece list with 1 less queen (1 is replaced by a bishop) 
 	16 Pawns  (P)
 
 
+
  
 Castling is also different. These will be updated later.
 
@@ -186,15 +187,22 @@ This is an alternative piece list with 1 less queen (1 is replaced by a bishop) 
 
 # Variation 32 by 32
 
-This is an alternative piece 32 by 32 square chess board with 192 pieces in 6 chess rows. 
-Pawns can advance from 1 to 8 moves on the first move.
+This is an alternative piece 32 by 32 square chess board with 192 pieces per side in 6 chess rows. 
+There are 384 pieces in total.
+Pawns can advance from 1 to 8 moves on the first move. 
+There are 1024 squares on the board or 16 times as many as a conventional game.
+Castling would be more complex.
 
-	27 Rooks   (R)
-	64 Bishops (B)
-	32 Knights (N)
-	4 Queens  (Q)
-	1 King    (K)
-	64 Pawns  (P)
+27 Rooks   (R)
+64 Bishops (B)
+32 Knights (N)
+4 Queens  (Q)
+1 King    (K)
+64 Pawns  (P)
+
+192       (Total number of player pieces)
+
+This is the board:
 
 
 		1 	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
