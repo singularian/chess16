@@ -199,7 +199,7 @@ Pawns can advance from 1 to 8 moves on the first move.
 
 		1 	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
 		a 	b	c	d	e	f	g	h	I	j	k	l	m	N	o	p	q	r	s	t	u	v	w	x	y	z	aa	ab	ac	ad	ae	af	
-	32	R	R	R	R	R	R	R	R	R	R	Q	Q	K	Q	Q	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R
+	32	R	R	R	R	R	R	R	R	R	R	R	R	R	Q	Q	K	Q	Q	R	R	R	R	R	R	R	R	R	R	R	R	R	R
 	31	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	
 	30	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B
 	29	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
@@ -230,4 +230,4 @@ Pawns can advance from 1 to 8 moves on the first move.
 	4	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N															
 	3	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B																	
 	2	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B
-	1	R	R	R	R	R	R	R	R	R	R	Q	Q	K	Q	Q	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R
+	1	R	R	R	R	R	R	R	R	R	R	R	R	R	Q	Q	K	Q	Q	R	R	R	R	R	R	R	R	R	R	R	R	R	R
