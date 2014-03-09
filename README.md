@@ -123,3 +123,111 @@ https://github.com/singularian/chess16/blob/master/images/chess16_Board2.png
 	1	R	R	N	N	B	B	Q	Q	K	Q	B	B	N	N	R	R
 
 
+# Variation 32 by 32
+
+
+A 32 by 32 board has this configuration.
+Pawns can move from 1 to 13 spaces initially.
+
+There are 32 pieces per side. These pieces are: 
+
+	8 Rooks   (R)
+	8 Bishops (B)
+	10 Knights (N)
+	5 Queens  (Q)
+	1 King    (K)
+	64 Pawns  (P)
+
+This is an alternative piece list with 1 less queen (1 is replaced by a bishop) and 5 bishops. 
+
+	8 Rooks   (R)
+	9 Bishops (B)
+	10 Knights (N)
+	4 Queens  (Q)
+	1 King    (K)
+	64 Pawns  (P)
+
+		1 	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
+		a 	b	c	d	e	f	g	h	I	j	k	l	m	N	o	p	q	r	s	t	u	v	w	x	y	z	aa	ab	ac	ad	ae	af	
+	32	R	R	R	R	N	N	N	N	N	B	B	B	B	Q	Q	Q	K	Q	Q	B	B	B	B	N	N	N	N	N	R	R	R	R
+	31	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	30	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	29	. 	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	28	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	27	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	26	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	25	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	24	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	23	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	22	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	21	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	20	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	19	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	18	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	17	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	16	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	15	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	14	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.		
+	13	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.											
+	12	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	11	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	10	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	9	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	8	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	7	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	6	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	5	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	4	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	3	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P																
+	2	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	1	R	R	R	R	N	N	N	N	N	B	B	B	B	Q	Q	Q	K	Q	Q	B	B	B	B	N	N	N	N	N	R	R	R	R
+
+
+
+# Variation 32 by 32
+
+This is an alternative piece 32 by 32 square chess board with 192 pieces in 6 chess rows. 
+Pawns can advance from 1 to 8 moves on the first move.
+
+	27 Rooks   (R)
+	64 Bishops (B)
+	32 Knights (N)
+	4 Queens  (Q)
+	1 King    (K)
+	64 Pawns  (P)
+
+
+		1 	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
+		a 	b	c	d	e	f	g	h	I	j	k	l	m	N	o	p	q	r	s	t	u	v	w	x	y	z	aa	ab	ac	ad	ae	af	
+	32	R	R	R	R	R	R	R	R	R	R	Q	Q	K	Q	Q	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R
+	31	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	
+	30	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B
+	29	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+	28	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	27	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	26	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	25	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	24	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	23	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	22	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	21	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	20	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	19	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	18	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	17	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	16	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	15	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	14	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.		
+	13	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.											
+	12	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	11	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	10	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	9	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	8	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	7	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
+	6	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P															
+	5	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P															
+	4	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N															
+	3	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B																	
+	2	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B
+	1	R	R	R	R	R	R	R	R	R	R	Q	Q	K	Q	Q	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R
