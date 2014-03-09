@@ -217,17 +217,17 @@ Pawns can advance from 1 to 8 moves on the first move.
 	17	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
 	16	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
 	15	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
-	14	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.		
-	13	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.											
+	14	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	
+	13	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
 	12	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
 	11	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
-	10	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
-	9	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
-	8	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
-	7	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.															
-	6	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P															
-	5	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P															
-	4	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N															
-	3	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B																	
+	10	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	
+	9	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	8	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	7	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	. 	.	.	.	.	.	.	.	.	.	.	.	.	.
+	6	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P
+	5	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	
+	4	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+	3	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B
 	2	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B	B
 	1	R	R	R	R	R	R	R	R	R	R	R	R	R	Q	Q	K	Q	Q	R	R	R	R	R	R	R	R	R	R	R	R	R	R
